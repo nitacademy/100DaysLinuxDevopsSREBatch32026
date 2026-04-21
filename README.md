@@ -6,19 +6,18 @@
 | ---- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1    | What is Linux                     | Introduction to Unix / Linux |
 | 2    | Install wsl        | Installation of "wsl" on your Windows machine and configuring credentials and verifying access to CLI (Command Line Interface)                                                                    |
-| 3    | [Your First Terraform Config (S3 Bucket)](#task-3-----your-first-terraform-config-s3-bucket) | Creation of an S3 bucket using Terraform. Introduces provider configuration and Terraform lifecycle commands.                                                            |
-| 4    | [Add an EC2 Instance](#task-4-----add-an-ec2-instance)                                       | Extends Terraform config to provision an EC2 instance and demonstrates incremental infrastructure updates using state.                                                   |
-| 5    | [Understand the State File](#task-5-----understand-the-state-file)                           | Explains Terraform state, how it tracks resources, and commands to inspect state. Covers best practices for handling state files.                                        |
-| 6    | [Modify, Plan, and Destroy](#task-6-----modify-plan-and-destroy)                             | Demonstrates modifying infrastructure, understanding plan symbols, applying updates, and destroying resources safely.                                                    |
+| 3    | Registering a https://github.com account | Registering your first github account.                                                            |
+| 4    | Linkedin                                    | Opening and reviewing your https://linkedin.com account and fixing your profile                                                   |
+safely.                                                    |
 
 ## Final Summary
 
 | Section        | Details                                                                       |
 | -------------- | ----------------------------------------------------------------------------- |
-| Topic          | Terraform & Infrastructure as Code                                            |
-| Key Concepts   | Providers, State, Lifecycle (init → plan → apply → destroy)                   |
-| Practical Work | Created S3 bucket, EC2 instance, modified resources, destroyed infrastructure |
-| Outcome        | Built a strong foundation in Terraform and real-world DevOps practices        |
+| Topic          | Linux                                            |
+| Key Concepts   | Servers and Virtualization                  |
+| Practical Work | Install WSL on Windows and run a few Linux Commands like ls, pwd, date, uptime|
+| Outcome        | Start your Linux journey       |
 
 ## This is the begining of a new Journey
 ## Please take this seriously and complete all your assignments on time
