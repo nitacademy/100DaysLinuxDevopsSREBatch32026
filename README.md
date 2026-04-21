@@ -6,10 +6,13 @@
 | ---- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1    | What is Linux                     | Introduction to Unix / Linux |
 | 2    | Install wsl        | Installation of "wsl" on your Windows machine and configuring credentials and verifying access to CLI (Command Line Interface)                                                                    |
-| 3    | Registering a https://github.com account | Registering your first github account.                                                            |
-| 4    | Linkedin                                    | Opening and reviewing your https://linkedin.com account and fixing your profile                                                   |
+| 3    | Registering a "github" account | Registering your first https://github.com account.                                                            |
+| 4    | Registering your first  Linkedin  account or modifying existing account                                 | Opening and reviewing your https://linkedin.com account and fixing your profile                                                   |
 safely.                                                    |
-
+| 5   | Installing GITBASH on your Windows Machine                                 | Download gitbash on your local Windows machine                |
+| 6   | Downloading VSCODE                                 | Instaslling VSCode on your Windows Machine                                                  |
+                   
+                   
 ## Final Summary
 
 | Section        | Details                                                                       |
