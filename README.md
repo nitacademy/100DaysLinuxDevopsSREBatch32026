@@ -4,7 +4,7 @@
 
 | Task | Title                                                                                        | Summary                                                                                                                                                                  |
 | ---- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1    | Linux Ecosystem                      | Understanding the Power of Open Source - Unix/Linux  |
+| 1    | What is Linux                     | Introduction to Unix / Linux |
 | 2    | [Install Terraform and Configure AWS](#task-2-----install-terraform-and-configure-aws)       | Installation of Terraform and AWS CLI, configuring credentials, and verifying access to AWS services.                                                                    |
 | 3    | [Your First Terraform Config (S3 Bucket)](#task-3-----your-first-terraform-config-s3-bucket) | Creation of an S3 bucket using Terraform. Introduces provider configuration and Terraform lifecycle commands.                                                            |
 | 4    | [Add an EC2 Instance](#task-4-----add-an-ec2-instance)                                       | Extends Terraform config to provision an EC2 instance and demonstrates incremental infrastructure updates using state.                                                   |
